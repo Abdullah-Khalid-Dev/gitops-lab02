@@ -1,0 +1,2 @@
+gitops student project
+version 1
